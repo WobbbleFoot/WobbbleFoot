@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @WobbbleFoot
-- 👀 I’m interested in Game Development, Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 Nijika
+- 🌱 Nijika
+- 💞️ Nijika
+- 📫 Nijika
+- 😄 Nijika
+- ⚡ Nijika
 
 <!---
 WobbbleFoot/WobbbleFoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
