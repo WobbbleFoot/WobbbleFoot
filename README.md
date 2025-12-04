@@ -2,14 +2,7 @@
 
 <h1>WobbbleFoot</h1>
 
-- 👋 Hi, I’m @WobbbleFoot
-- 👀 Nijika
-- 🌱 Nijika
-- 💞️ Nijika
-- 📫 Nijika
-- 😄 Nijika
-- ⚡ Nijika
-
+<code>BocchiOS is going to be a reality, mark my words</code>
 
 
 <!---
